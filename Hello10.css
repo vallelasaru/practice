@@ -1,0 +1,15 @@
+dl{
+    border:1px solid grey;
+    border-radius: 20px;
+    width:40%;
+    padding:10px;
+}
+dt{
+    border:1px solid grey;
+    color:white;
+    background-color: orangered;
+
+}
+dd{
+    border-bottom: 1px dotted red;
+}
